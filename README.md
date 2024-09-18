@@ -1,15 +1,15 @@
-# 30-06-2024---Final-project
+Final-project
 
 # JumlaCycle
 
 ## Contact Information
 
 - **Name:** Mohammed Tariq ALghamdi
-- **Email:** [mohammedtg209@outlook.com](mailto:mohammedtg208@outlook.com)
+- **Email:** [mohammedtg208@outlook.com](mailto:mohammedtg208@outlook.com)
 - **LinkedIn:** [Mohammed ALghamdi](https://www.linkedin.com/in/mohammed-al-ghamdi-36b470311/)
 - **Figma:** [Project Design](https://www.figma.com/design/nNNGhTMIvFlT8xtPiU88oR/JumlaCycle?t=NYOevIxt38XtIUrg-0)
 - **Postman Documentation:** [Link](https://documenter.getpostman.com/view/35088433/2sAXqqdNor)
-- **Presentation:** [Canva Presentation]([https://www.canva.com/design/DAGQ9ACUzlc/DtIgLE1HbMeTPNDzOfWo_w/edit](https://www.canva.com/design/DAGQ9ACUzlc/DtIgLE1HbMeTPNDzOfWo_w/edit?utm_content=DAGQ9ACUzlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- **Presentation:** [Canva Presentation]([https://www.canva.com/design/DAGQ9ACUzlc/DtIgLE1HbMeTPNDzOfWo_w/edit](https://www.canva.com/design/DAGQ9ACUzlc/DtIgLE1HbMeTPNDzOfWo_w/editutm_content=DAGQ9ACUzlc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ## Project Overview
 
