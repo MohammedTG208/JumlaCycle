@@ -112,6 +112,4 @@ The platform is a marketplace designed to connect suppliers with facilities and 
 - testGetProductById
 
 
-# Use case
 
-![Use case](https://drive.google.com/uc?id=1AtqGLG9rmVhB1I3zDpyaiK7loMRlXp-Z)
